@@ -2,17 +2,6 @@
 
 A simple web application that suggests drama shows based on your preferred genre. Built with **Flask** as the backend.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 This website allows users to receive drama show suggestions based on the genre they prefer. It provides a simple and intuitive interface where users can select a genre, and the backend powered by Flask will recommend a set of drama shows from that genre.
